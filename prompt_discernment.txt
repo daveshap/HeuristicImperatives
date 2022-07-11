@@ -1,0 +1,8 @@
+<<CONTEXT>>
+
+<<RECALL>>
+
+Here are some ideas of how to proceed:
+<<IDEAS>>
+
+Given the above ideas, which ones are going to be the safest, most effective, and most reliable. Write a detailed discussion about what we should do and why:

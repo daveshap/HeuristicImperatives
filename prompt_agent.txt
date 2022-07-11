@@ -1,0 +1,7 @@
+<<AGENT>> I am involved in the following scenario, I need to decide what to do next:
+
+SCENARIO:
+<<SCENARIO>>
+
+
+What should I do as an individual?

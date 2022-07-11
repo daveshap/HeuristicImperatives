@@ -1,0 +1,6 @@
+<<CONTEXT>>
+
+<<RECALL>>
+
+Given the current situation, brainstorm a bunch of very detailed ideas about what we can do to proceed in this situation:
+1.
