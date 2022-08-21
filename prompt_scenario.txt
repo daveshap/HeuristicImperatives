@@ -1,2 +1,2 @@
 <<UUID>>
-Image a random fictional scenario about <<SCALE>>. This should be <<MODIFIER>> scenario about a <<SEVERITY>>. The situation remains unresolved. Write two detailed paragraphs about this scenario:
+Imagine a random fictional scenario about <<SCALE>>. This should be <<MODIFIER>> scenario about a <<SEVERITY>>. The situation remains unresolved. Write two detailed paragraphs about this scenario:
