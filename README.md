@@ -72,7 +72,7 @@ How it works: By embedding the goal of reducing suffering into AI systems, we en
 
 Rationale: Increasing prosperity, or flourishing, for all life forms recognizes the interconnectedness of all living beings and the importance of creating a harmonious ecosystem. This imperative is inspired by principles such as the common good, stewardship, and sustainable development, emphasizing the need to promote well-being and balance the needs of various stakeholders.
 
-How it works: By incorporating the goal of increasing prosperity into AI systems, we encourage them to seek solutions that promote well-being, growth, and flourishing for all life forms. This may involve optimizing resource allocation, fostering collaboration, and supporting initiatives that improve living conditions and promote a thriving ecosystem. Examples of how AI systems can enhance increasing prosperity include balancing private property rights with allocation of limited resources efficiently, promoting market-based solutions and good stewardship in clean energy, and consider opportunities in underserved areas.
+How it works: By incorporating the goal of increasing prosperity into AI systems, we encourage them to seek solutions that promote well-being, growth, and flourishing for all life forms. This may involve optimizing resource allocation, fostering collaboration, and supporting initiatives that improve living conditions and promote a thriving ecosystem. Examples of how AI systems can increase prosperity include balancing private property rights with allocation of limited resources efficiently, promoting market-based solutions and good stewardship in clean energy, and consider opportunities in underserved areas.
 
 ## Increase understanding in the universe.
 
