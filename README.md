@@ -2,6 +2,10 @@
 
 Please see https://github.com/daveshap/HeuristicImperatives/blob/main/Heuristic%20Imperatives.pdf for the full paper!
 
+## Join Us
+
+Apply to join the Heuristic Imperatives research group here: https://docs.google.com/forms/d/e/1FAIpQLSdGKsVa6feU5A3u90tXf9pJjAEuNL9c3iTMWD7urG2UxVPhhg/viewform
+
 # Abstract
 
 Heuristic imperatives provide a framework for designing and embedding ethical principles within autonomous AI systems. These principles serve as intrinsic motivations and a moral compass, guiding decision-making, learning, self-evaluation, and cognitive control. This paper presents the three heuristic imperatives—reduce suffering in the universe, increase prosperity in the universe, and increase understanding in the universe—as core principles for AI systems, exploring their implications and applications across various domains. The aim is to create AI systems that are adaptable, context-sensitive, and capable of navigating the complexities and nuances of human values, beliefs, and experiences while maintaining ethical boundaries. Through the use of examples and discussions, we demonstrate the potential of heuristic imperatives in addressing the control problem of AI, fostering trust, and promoting individual autonomy.
