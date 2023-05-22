@@ -2,9 +2,13 @@
 
 Please see https://github.com/daveshap/HeuristicImperatives/blob/main/Heuristic%20Imperatives.pdf for the full paper!
 
-## Join Us
+## More Information
 
-Apply to join the Heuristic Imperatives research group here: https://docs.google.com/forms/d/e/1FAIpQLSdGKsVa6feU5A3u90tXf9pJjAEuNL9c3iTMWD7urG2UxVPhhg/viewform
+- If you'd like to debate or discuss the heuristic imperatives, go to Reddit: https://www.reddit.com/r/HeuristicImperatives/
+- If you'd like to read more about the genesis of the heuristic imperatives, read Benevolent By Design, Symphony of Thought, and Natural Language Cognitive Architecture, they are all pinned here: https://github.com/daveshap
+- If you'd like to learn more about a global initiative to implement the heuristic imperatives, check out the GATO Framework (Global Alignment Taxonomy Omnibus) here: https://www.gatoframework.org/
+
+
 
 ## Definition of "Heuristic Imperatives"
 
